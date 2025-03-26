@@ -1,3 +1,5 @@
+<h1 align="center">Hii 🙋‍♂️ I'm Chitransh Shrivastava</h1>
+<br>
 
 - 🔭 I’m currently working on **Attendence using Face Recognition**
 - 🌱 I’m currently learning **Data Science**
