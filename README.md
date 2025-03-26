@@ -1,21 +1,27 @@
-<h1 align="center">🙋‍♂️Hii! I'm Chitransh Shrivastava</h1>
+<h1 align="center">Hi 👋, I'm Chitransh Shrivastava</h1>
+<h3 align="center">A passionate Data Science Leaner from India</h3>
 <br>
 
 - 🔭 I’m currently working on **Attendence using Face Recognition**
-- 🌱 I’m currently learning **Data Science**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about **Anything 💁‍♂️**
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Data Science & Computer Vision
+- 👯 I’m looking to collaborate on AI/ML projects, Face Recognition, and Automation
+- 🤔 I’m looking for help with optimizing face recognition accuracy and real-time processing
+- 💬 Ask me about Python, Data Science, Face Recognition, and Web Development 💁‍♂️
+- 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/chitranshh1)
+- ⚡ Fun fact: I can make a machine recognize you faster than your best friend! 😎
+
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Cshrivastava.1) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chitransh.1) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chitranshh1) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Chitranhh1) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chitranshhh1) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chitranshshrivastava102@gmail.com) 
+<p align="left">
+<a href="https://twitter.com/chitranshhh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chitranshhh1" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/chitranshh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/chitranshh1" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/chitransh11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/chitransh11" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Cshrivastava.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/cshrivastava.1" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chitranshh.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/chitranshh.1/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/chitranshshriva2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank.com/profile/chitranshshriva2" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/chitranshh1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/chitranshh1/" height="30" width="40" /></a>
+</p>
+
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
