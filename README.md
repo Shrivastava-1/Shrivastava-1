@@ -3,12 +3,10 @@
 <br>
 
 - 🔭 I’m currently working on **Attendence using Face Recognition**
-- 🌱 I’m currently learning Data Science & Computer Vision
-- 👯 I’m looking to collaborate on AI/ML projects, Face Recognition, and Automation
-- 🤔 I’m looking for help with optimizing face recognition accuracy and real-time processing
-- 💬 Ask me about Python, Data Science, Face Recognition, and Web Development 💁‍♂️
-- 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/chitranshh1)
-- ⚡ Fun fact: I can make a machine recognize you faster than your best friend! 😎
+- 🌱 I’m currently learning **Data Science & Computer Vision**
+- 💬 Ask me about **Python, Data Science** 💁‍♂️
+- 📫 How to reach me: **[LinkedIn](https://in.linkedin.com/in/chitranshh1)**
+- ⚡ Fun fact: **ERROR**😎
 
 
 ## 🌐 Socials:
