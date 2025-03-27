@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Data Science & Computer Vision**
 - 👯 I’m looking to collaborate **[LinkedIn](https://in.linkedin.com/in/chitranshh1)**
 - 💬 Ask me about **Python, Data Science** 💁‍♂️
-- 📫 How to reach me: **[Portfolio]()**
+- 📫 How to reach me: **[Portfolio](https://shrivastava-1.github.io/Portfolio/)**
 - ⚡ Fun fact: **ERROR**😎
 <br>
 
