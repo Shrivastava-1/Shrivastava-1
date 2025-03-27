@@ -10,7 +10,6 @@
 - 📩 How to reach me: **[Email](chitranshshrivastava102@gmail.com)**
 - 📫 Explore More: **[Portfolio](https://shrivastava-1.github.io/Portfolio/)**
 - ⚡ Fun fact: **ERROR**😎
-<br>
 
 ## 🌐 Socials:
 <p align="left">
