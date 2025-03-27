@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chitransh Shrivastava</h1>
 <h3 align="center">A passionate Data Science Leaner from India</h3>
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 <br>
 
 - 🔭 I’m currently working on **Attendence using Face Recognition**
@@ -7,7 +8,7 @@
 - 💬 Ask me about **Python, Data Science** 💁‍♂️
 - 📫 How to reach me: **[LinkedIn](https://in.linkedin.com/in/chitranshh1)**
 - ⚡ Fun fact: **ERROR**😎
-
+<br>
 
 ## 🌐 Socials:
 <p align="left">
