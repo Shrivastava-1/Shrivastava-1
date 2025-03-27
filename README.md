@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Face Recognition**
 - 🌱 I’m currently learning **Data Science & Computer Vision**
 - 👯 I’m looking to collaborate **[LinkedIn](https://in.linkedin.com/in/chitranshh1)**
-- 💬 Ask me about **Python, Data Science** 💁‍♂️
+- 💬 Ask me about **Anything**💁‍♂️
 - 📩 How to reach me: **[Email](chitranshshrivastava102@gmail.com)**
 - 📫 Explore More: **[Portfolio](https://shrivastava-1.github.io/Portfolio/)**
 - ⚡ Fun fact: **ERROR**😎
