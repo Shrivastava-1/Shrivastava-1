@@ -3,10 +3,11 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="200px" max-width="200px" width="300px" align="right">
 <br>
 
-- 🔭 I’m currently working on **Attendence using Face Recognition**
+- 🔭 I’m currently working on **Face Recognition**
 - 🌱 I’m currently learning **Data Science & Computer Vision**
+- 👯 I’m looking to collaborate **[LinkedIn](https://in.linkedin.com/in/chitranshh1)**
 - 💬 Ask me about **Python, Data Science** 💁‍♂️
-- 📫 How to reach me: **[LinkedIn](https://in.linkedin.com/in/chitranshh1)**
+- 📫 How to reach me: **[Portfolio]()**
 - ⚡ Fun fact: **ERROR**😎
 <br>
 
