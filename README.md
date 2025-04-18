@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Data Science & Computer Vision**
 - 👯 I’m looking to collaborate **[LinkedIn](https://in.linkedin.com/in/chitranshh1)**
 - 💬 Ask me about **Anything**💁‍♂️
-- 📩 How to reach me: **[Email](chitranshshrivastava102@gmail.com)**
+- 📩 How to reach me: chitranshshrivastava102@gmail.com
 - 📫 Explore More: **[Portfolio](https://shrivastava-1.github.io/Portfolio/)**
 - ⚡ Fun fact: **DO NOTHING JUST EAT FIVE STAR**😎
 
