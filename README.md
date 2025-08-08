@@ -4,7 +4,7 @@
 <br>
 
 - 🔭 I’m currently working on **Face Recognition**
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Django**
 - 👯 I’m looking to collaborate **[LinkedIn](https://in.linkedin.com/in/chitranshh1)**
 - 💬 Ask me about **Anything**💁‍♂️
 - 📩 How to reach me: chitranshshrivastava102@gmail.com
