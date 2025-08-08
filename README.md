@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm CHITRANSH SHRIVASTAVA</h1>
-<h3 align="center">A Passionate Data Science Leaner from India</h3>
+<h3 align="center">A Passionate Django Leaner from India</h3>
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="200px" max-width="200px" width="300px" align="right">
 <br>
 
 - 🔭 I’m currently working on **Face Recognition**
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Django**
 - 👯 I’m looking to collaborate **[LinkedIn](https://in.linkedin.com/in/chitranshh1)**
 - 💬 Ask me about **Anything**💁‍♂️
 - 📩 How to reach me: chitranshshrivastava102@gmail.com
