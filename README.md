@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate **[LinkedIn](https://in.linkedin.com/in/chitranshh1)**
 - 💬 Ask me about **Anything**💁‍♂️
 - 📩 How to reach me: chitranshshrivastava102@gmail.com
-- 📫 Explore More: **[Portfolio](https://shrivastava-1.github.io/Portfolio/)**
+- 📫 Explore More: **[Portfolio](https://shrivastava-1.github.io/Django-Portfolio/)**
 - ⚡ Fun fact: **DO NOTHING JUST EAT FIVE STAR**😎
 
 ## 🌐 Socials:
