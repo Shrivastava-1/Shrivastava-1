@@ -12,7 +12,7 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://twitter.com/chitranshhh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chitranshhh1" height="30" width="40" /></a><
+<a href="https://twitter.com/chitranshhh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chitranshhh1" height="30" width="40" /></a>
 <a href="https://in.linkedin.com/in/chitranshh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/chitranshh1" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/chitransh11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/chitransh11" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Cshrivastava.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/cshrivastava.1" height="30" width="40" /></a>
